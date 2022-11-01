@@ -69,7 +69,7 @@ p {
     margin-right: 40px;
 }
 
-@media(max-width:375px) {
+@media(max-width:480px) {
     
     .container{
         width: 80%;
@@ -107,9 +107,6 @@ p {
     #end {
         margin-right: 60px;
     }
-}
-@media(min-width:480px) {
-    .container {
-        width: 60%;
-    }
+
+
 }
